@@ -1,0 +1,20 @@
+
+.carousel-inner img {
+  width: 100%;
+  height: 750px;   /* Set your desired height */
+  object-fit: cover;      /* Ensures images fill the area and maintain aspect ratio */
+}
+.heading-technology {
+  position: relative;
+}
+
+.heading-technology h3{
+  margin-top: 0.4rem;
+  margin-left: 1rem;
+}
+
+.heading-technology hr {
+   /* optional: makes line shorter */
+  margin: 0 auto;
+  border: 1px solid #000; /* adjust color/thickness */
+}
